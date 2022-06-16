@@ -1,6 +1,4 @@
-# TUGAS-SOA-POINT-HARD
-Department News Board
-
+# Department News Board (HARD)
 Service ini memakai Bahasa Pemrograman Python
 
 Untuk menjalankan service nya menggunakan Nameko, RabbitMQ
