@@ -1,8 +1,12 @@
 # TUGAS-SOA-POINT-HARD
 Department News Board
+
 Service ini memakai Bahasa Pemrograman Python
+
 Untuk menjalankan service nya menggunakan Nameko, RabbitMQ
+
 Service ini Terhubung dengan Database menggunakan MySQL.
+
 Untuk melakukan pengetesan API menggunakan Postman.
 
 # Step by Step untuk melakukan pengetesan service ini
