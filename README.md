@@ -11,9 +11,7 @@ Untuk melakukan pengetesan API menggunakan Postman.
 
 # Step by Step untuk melakukan pengetesan service ini
 1. Import database yang sudah disediakan
-2. Melakukan Run di Visual Studio Code di terminal
-a. nameko run service
-b. nameko run news_service
+2. Melakukan Run di Visual Studio Code di 2 terminal : nameko run service dan nameko run news_service
 3. Buka Postman untuk test API
 
 # Untuk mengakses Service
